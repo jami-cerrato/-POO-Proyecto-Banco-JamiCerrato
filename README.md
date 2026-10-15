@@ -9,4 +9,4 @@
 4. Clic derecho sobre `Main.java` y elegir Run File
 
 ## Captura de resultado
-![Resultado](136.png)
+![Resultado](captura.png)
